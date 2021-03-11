@@ -10,5 +10,5 @@ pub use collections::*;
 pub mod errors;
 pub use errors::*;
 
- pub mod commands;
- pub use commands::*;
+pub mod commands;
+pub use commands::*;

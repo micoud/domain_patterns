@@ -1,9 +1,6 @@
 #[macro_use]
 extern crate domain_derive;
 
-#[macro_use]
-extern crate snafu;
-
 use domain_patterns::collections::*;
 mod common;
 use common::*;

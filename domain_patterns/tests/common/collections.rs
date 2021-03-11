@@ -1,7 +1,6 @@
 use std::collections::HashMap;
 use domain_patterns::models::Entity;
 use domain_patterns::collections::{Repository, EventRepository};
-use std::{fmt, error};
 use crate::common::{NaiveUser, UserEventRecord, UserEvents, Error};
 
 // for naive testing

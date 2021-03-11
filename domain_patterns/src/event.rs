@@ -1,4 +1,3 @@
-use crate::models::AggregateRoot;
 use crate::message::Message;
 
 /// `DomainEvent` is a trait that defines an event relevant to the domain.  These are always facts about something
